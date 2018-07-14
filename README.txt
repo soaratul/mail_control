@@ -13,13 +13,3 @@ or just for development purposes, etc.
 You can access these settings under admin/config/people/accounts.
 The module provide only interface modifications. 
 The underlying functionality is already there by default in Drupal 8.
-
-/**
- * USEFULL LINKS
- */
-Project: http://drupal.org/sandbox/reszli/1846498
-
-/**
- * CONTACT
- */
-soaratul@gmail.com
